@@ -32,7 +32,7 @@ I want to make this a useful resource! Please reach out to me and let me know if
 
 - **Licenses:** [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) Copyright © 2019 Derek Caetano-Anollés. All rights reserved. All assets, text, exercises, character designs, and files produced as a part of this tutorial series were created by the rights holder and are released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. Adobe Illustrator™, Adobe, and the Ai logo are owned by Adobe Inc. and are not affiliated with the author or any affiliated entities.
 
-- **Edited:** 2019.06.01
+- **Edited:** 2019.06.18
 
 
 
