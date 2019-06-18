@@ -10,13 +10,19 @@ Lessons are delivered in a logical order, buiding off of previous lessons learne
 
 In this *Hyperspeed Tutorial* series, you will learn
 
-- **1. Navigation** - Intro to Adobe Illustrator, vector graphics, and navigation on the Artboard?
+- **1. Navigation** - What is Adobe Illustrator, even? In this introductory lesson, you will learn the basics of vector graphics and navigation on the Artboard. You won't even need to stand up and introduce yourself to the class.
 
-- **2. Selection Tool** - Selecting, moving, and manipulating objects.
+- **2. Selection Tool** - In this lesson, we will learn how to manipulate objects by moving, resizing, and rotating them. You may already be familiar with the selection tool in other programs, but that doesn't mean that AI doesn't have a few tricks up its sleeve!
 
-- **3. Direct Selection Tool** - Intro to Bézier curves. Manipulating anchor points and direction handles to create a myriad of new shapes out of existing shapes.
+- **3. Direct Selection Tool** - Finally, we get to Bézier curves, the most basic element of vector graphics. Here, we will learn how to manipulate anchor points and direction handles to create a myriad of new shapes out of existing ones. This lesson will help you better understand the nuts and bolts of AI, in order to create literally anything you want to.
 
-- **4. Pen Tool** - Creating new shapes from scratch, using lessons learned from the previous lessons.
+- **4. Pen Tool** - Now is time to let those creative juices flow! In this lesson, we will be creating new shapes from scratch, using lessons learned from the previous lessons.
+
+- - -
+
+### Suggestions for Improvement?
+
+I want to make this a useful resource! Please reach out to me and let me know if you get stuck, so I can help you through the exercises!
 
 - - -
 
