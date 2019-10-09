@@ -4,6 +4,8 @@
 
 Lessons are delivered in a logical order, buiding off of previous lessons learned, however they can be skipped if the level is too low.
 
+Download the newest version of the Tutorial at [the following link.](https://github.com/derekca/tutorial/archive/master.zip)
+
 - - -
 
 ### Adobe Illustrator CC
