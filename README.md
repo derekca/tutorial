@@ -4,7 +4,12 @@
 
 Lessons are delivered in a logical order, buiding off of previous lessons learned, however they can be skipped if the level is too low.
 
-Download the newest version of the Tutorial at [the following link.](https://github.com/derekca/tutorial/archive/master.zip)
+Download the newest version of the Tutorial at the following link.
+
+[**Download Link**](https://github.com/derekca/tutorial/archive/master.zip)
+
+![Hyperspeed Tutorials.](https://github.com/derekca/tutorial/blob/master/ReadMe_Img01.png)
+
 
 - - -
 
@@ -34,7 +39,7 @@ I want to make this a useful resource! Please reach out to me and let me know if
 
 - **Licenses:** [CC-BY-NC-SA-4.0](https://creativecommons.org/licenses/by-nc-sa/4.0) Copyright © 2019 Derek Caetano-Anollés. All rights reserved. All assets, text, exercises, character designs, and files produced as a part of this tutorial series were created by the rights holder and are released under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license. Adobe Illustrator™, Adobe, and the Ai logo are owned by Adobe Inc. and are not affiliated with the author or any affiliated entities.
 
-- **Edited:** 2019.06.18
+- **Edited:** 2020.10.10
 
 
 
